@@ -3,7 +3,7 @@
   "displayName": "Cyber Vivid",
   "description": "The best theme alive",
   "publisher": "Fe13rodrigues",
-  "version": "0.1.3",
+  "version": "0.1.8",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -17,6 +17,16 @@
         "label": "Cyber Vivid",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyber Vivid-color-theme.json"
+      },
+      {
+        "label": "Cyber Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyber Neon-dark-theme.json"
+      },
+      {
+        "label": "Cyber Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyber Black-color-theme.json"
       }
     ]
   }
