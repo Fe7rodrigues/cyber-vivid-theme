@@ -1,0 +1,23 @@
+{
+  "name": "cyber-vivid",
+  "displayName": "Cyber Vivid",
+  "description": "thema",
+  "publisher": "Fe13rodrigues",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyber Vivid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyber Vivid-color-theme.json"
+      }
+    ]
+  }
+}
