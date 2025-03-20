@@ -33,7 +33,7 @@ O **Cyber Vivid** utiliza uma paleta de cores neon e contrastantes, com um fundo
 Aqui está uma prévia do tema em ação:
 
 
-![screenshot](https://github.com/Fe7rodrigues/cyber-vivid-theme/blob/e5ffb3b57eae81236ff2a625753e6726e24599d8/-.png)
+![screenshot](https://github.com/Fe7rodrigues/cyber-vivid-theme/blob/1bd54675bc8a3ce9d50f01ba8dd33b25ecbb2a4b/-.png)
 
 ---
 
