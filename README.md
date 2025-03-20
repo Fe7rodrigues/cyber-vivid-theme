@@ -1,12 +1,12 @@
-# Cyber Vivid Theme
+# Cyber Themes
 
-Um tema futurista e vibrante para o Visual Studio Code, projetado para mergulhar você em um ambiente escuro com toques de cores neon e alta legibilidade. O **Cyber Vivid** é perfeito para desenvolvedores que buscam um tema moderno, com um visual cyberpunk e foco na produtividade.
+Temas futuristas e vibrantes para o Visual Studio Code, projetados para mergulhar você em um ambiente escuro com toques de cores neon e alta legibilidade. Os temas **Cyber Vivid**, **Cyber Black** e **Cyber Neon** são perfeitos para desenvolvedores que buscam um visual moderno, com estilo cyberpunk e foco na produtividade.
 
 ---
 
 ## 🎨 Paleta de Cores
 
-O **Cyber Vivid** utiliza uma paleta de cores neon e contrastantes, com um fundo escuro que reduz a fadiga visual. Aqui estão algumas das cores principais:
+### Cyber Vivid
 
 - **Fundo do Editor**: `#242424`
 - **Texto Principal**: `#eeffff`
@@ -15,6 +15,26 @@ O **Cyber Vivid** utiliza uma paleta de cores neon e contrastantes, com um fundo
 - **Strings**: `#80CBC4`
 - **Funções**: `#C3E88D`
 - **Operadores**: `#F78C6C`
+
+### Cyber Black
+
+- **Fundo do Editor**: `#141417`
+- **Texto Principal**: `#eeeeee`
+- **Destaques**: Tons de roxo, verde, azul e laranja neon.
+- **Comentários**: `#555555` (itálico)
+- **Strings**: `#80CBC4`
+- **Funções**: `#C3E88D`
+- **Operadores**: `#F78C6C`
+
+### Cyber Neon
+
+- **Fundo do Editor**: `#141417`
+- **Texto Principal**: `#c5c5cb`
+- **Destaques**: Tons de roxo, verde, azul e amarelo neon.
+- **Comentários**: `#bdbdd359` (itálico)
+- **Strings**: `#42DD76`
+- **Funções**: `#28A9FF`
+- **Operadores**: `#FFB638`
 
 ---
 
@@ -30,10 +50,17 @@ O **Cyber Vivid** utiliza uma paleta de cores neon e contrastantes, com um fundo
 
 ## 🖼️ Capturas de Tela
 
-Aqui está uma prévia do tema em ação:
+Aqui está uma prévia dos temas em ação:
 
+[![Home.png](https://i.postimg.cc/xd7mMGkQ/Home.png)](https://postimg.cc/f3ckh9jq)
 
-![screenshot](https://github.com/Fe7rodrigues/cyber-vivid-theme/blob/1bd54675bc8a3ce9d50f01ba8dd33b25ecbb2a4b/-.png)
+[![About.png](https://i.postimg.cc/y810H8qM/About.png)](https://postimg.cc/tYcsdy4k)
+
+[![Features.png](https://i.postimg.cc/t4BWCGpY/Features.png)](https://postimg.cc/0zJbc36s)
+
+[![4.png](https://i.postimg.cc/GhJvVsfP/4.png)](https://postimg.cc/7fhCTbwb)
+
+[![5.png](https://i.postimg.cc/FK1cYCHG/5.png)](https://postimg.cc/CZTdtNDf)
 
 ---
 
@@ -41,9 +68,9 @@ Aqui está uma prévia do tema em ação:
 
 1. Abra o **Visual Studio Code**.
 2. Vá para a aba **Extensions** (Ctrl+Shift+X).
-3. Pesquise por **"Cyber Vivid"**.
+3. Pesquise por **"Cyber Vivid"**, **"Cyber Black"** ou **"Cyber Neon"**.
 4. Clique em **Install** para instalar o tema.
-5. Após a instalação, vá para **File > Preferences > Color Theme** e selecione **Cyber Vivid**.
+5. Após a instalação, vá para **File > Preferences > Color Theme** e selecione o tema desejado.
 
 ---
 
@@ -53,4 +80,4 @@ Criado com ❤️ por Fernando Rodrigues
 
 ---
 
-Se você gostou do tema, deixe uma ⭐ no repositório!# cyber-vivid-theme
+Se você gostou dos temas, deixe uma ⭐ no [marketplace](https://marketplace.visualstudio.com/items?itemName=Fe13rodrigues.cyber-vivid)!
