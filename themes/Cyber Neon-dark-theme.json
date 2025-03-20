@@ -1,0 +1,73 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "colors": {
+    "activityBar.activeBackground": "#8f8f8f26",
+    "activityBar.activeBorder": "#8f8f8f",
+    "activityBar.background": "#0e0e0e",
+    "activityBar.border": "#050505",
+    "activityBar.dropBorder": "#54545433",
+    "activityBar.foreground": "#8f8f8f",
+    "activityBar.inactiveForeground": "#484f4b",
+    "activityBarBadge.background": "#8f8f8f",
+    "activityBarBadge.foreground": "#0e0e0e",
+    "activityBarTop.activeBorder": "#8f8f8f",
+    "activityBarTop.dropBorder": "#54545433",
+    "activityBarTop.foreground": "#8f8f8f",
+    "activityBarTop.inactiveForeground": "#434343",
+    "badge.background": "#8f8f8f",
+    "badge.foreground": "#0e0e0e",
+    "breadcrumb.background": "#141414",
+    "breadcrumbPicker.background": "#212121",
+    "button.background": "#8f8f8f80",
+    "button.border": "#ffffff26",
+    "button.foreground": "#c7c7c7",
+    "button.hoverBackground": "#8f8f8f99",
+    "button.secondaryBackground": "#262626",
+    "button.secondaryForeground": "#c7c7c7cc",
+    "button.secondaryHoverBackground": "#2e2e2e",
+    "button.separator": "#2e2e2e",
+    "charts.blue": "#78dce8",
+    "charts.foreground": "#c7c7c7",
+    "charts.green": "#a9dc76",
+    "charts.lines": "#c7c7c7",
+    "charts.orange": "#fc9867",
+    "charts.purple": "#e991e3",
+    "charts.red": "#fc6a67",
+    "charts.yellow": "#ffd866",
+    "checkbox.foreground": "#c7c7c7"
+  },
+  "name": "BeardedTheme Monokai-black",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "class.declaration": {
+      "foreground": "#ab9df2"
+    },
+    "class.decorator": {
+      "foreground": "#e991e3"
+    },
+    "enumMember": {
+      "foreground": "#ab9df2"
+    }
+  },
+  "tokenColors": [
+    {
+      "scope": ["support.module.elm", "entity.other.inherited-class.python"],
+      "settings": {
+        "foreground": "#fc9867"
+      }
+    },
+    {
+      "scope": ["entity.name.type"],
+      "settings": {
+        "foreground": "#b7d175"
+      }
+    },
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#cfbfbf59"
+      }
+    }
+  ]
+}
